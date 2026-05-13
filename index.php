@@ -47,7 +47,7 @@ include_once ('header.php');
                         <div class="row">
                             <div class="col-sm-6">
                                 <ul class="list-unstyled mb-0">
-                                      <li><a href="https://sorokav.page.gd/category.php?category_id=1">Фантастика</a></li>
+                                    <li><a href="https://sorokav.page.gd/category.php?category_id=1">Фантастика</a></li>
                                     <li><a href="https://sorokav.page.gd/category.php?category_id=2">Комедії</a></li>
                                     <li><a href="https://sorokav.page.gd/category.php?category_id=3">Бойовик</a></li>
                                 </ul>
