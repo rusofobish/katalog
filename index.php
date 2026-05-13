@@ -6,7 +6,7 @@ include_once ('header.php');
     <div class="container">
         <div class="text-center my-5">
             <h1 class="fw-bolder">Вітаємо на нашому сайті!</h1>
-            <h2 <p class="lead mb-0">Каталог фільмів</p> </h2>
+                <h2> Каталог фільмів </h2>
         </div>
     </div>
 </header>
