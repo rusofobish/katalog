@@ -1,6 +1,6 @@
 <?php
     $login = 'admin';
-    $password = '12345';
+    $password = '12345678';
 
     if ($login == $_POST['login'] && $password == $_POST['password']) {
         session_start();
