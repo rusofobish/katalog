@@ -14,7 +14,7 @@ include_once ('header.php');
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
-                <h2>Всі новини</h2>
+                <h2>Весь каталог</h2>
                 <!-- Blog post-->
                 <?php $news = get_news()?>
                 <?php foreach ($news as $new):?>
